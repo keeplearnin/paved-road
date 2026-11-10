@@ -1,0 +1,2 @@
+id,name,type,business_line,purpose,business_owner,technical_owner,model,vendor,hosting,data_classes,untrusted_input,can_act_externally,human_review,users_affected,risk_tier,through_gateway,trust_brief,status,discovered_via,monthly_run_cost_usd,review_date,notes
+AI-001,Example internal policy assistant,RAG assistant,Operations,Answer staff questions on internal procedures,Jane Doe,John Roe,example-model,example-vendor,vendor cloud,internal,no,no,yes,employees,2,yes,yes,production,intake,,2027-05-01,Example row; replace with your own
