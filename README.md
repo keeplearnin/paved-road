@@ -1,6 +1,6 @@
-# AI Governance Playbook
+# Paved Road
 
-A practitioner's playbook for AI governance that runs in the systems, not in binders.
+An AI governance playbook for governance that runs in the systems, not in binders.
 
 Most firms have an AI policy, a committee and an approval form. Few can enforce any of it at the moment a model is called. This repo is a working playbook for closing that gap in a regulated enterprise: what to do in the first 90 days, the templates to do it with, and the lessons behind them.
 
